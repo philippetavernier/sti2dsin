@@ -8,3 +8,4 @@
 
 ## TP
 [7 segments](https://drive.google.com/drive/folders/1vCsoPxUAdW2A9C2zgOr6C1dWmPQVR_fx)
+[7 segments aide](https://www.youtube.com/playlist?list=PLkW6qBuit1un6_8GBoBpo7G6H0cfpEdpD)
