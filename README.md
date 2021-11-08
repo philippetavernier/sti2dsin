@@ -13,4 +13,4 @@
 
 [Prog arduino](https://docs.google.com/document/d/19JCZMO4zfHxqnz-4h1KUvYIEEuzUJn7XOyC1iEgxawg/edit) --
 
-[Voltemètre](https://docs.google.com/document/d/1iZ41Fo0lxZhXtrj3GpHRgUcYfR8uLZWYIegFmVcj49A/edit)
+[Voltmètre](https://docs.google.com/document/d/1iZ41Fo0lxZhXtrj3GpHRgUcYfR8uLZWYIegFmVcj49A/edit)
