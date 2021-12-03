@@ -9,11 +9,20 @@
 ### Communication
 [RS232](https://drive.google.com/drive/folders/1wGDB0QAhQwCGjOF_YJKtVIhPquZOphkO)
 [I2C/SPI](https://drive.google.com/drive/folders/13UW2mVkYiC0QdP0EvH9QML-FkByicGxg)
-[BUS CAN](https://drive.google.com/drive/folders/1BB6bRoB5NnhnO3jo89I9VVwDLA97JocM)
+[BUS-CAN](https://drive.google.com/drive/folders/1BB6bRoB5NnhnO3jo89I9VVwDLA97JocM)
+[BUS-EIB]
 
 ## Notes de cours
+### Electronic
 [CAN-CNA](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/Hyl0dE3Et)
-
+[Diodes]()
+[AOP]()
+[MCC](https://hackmd.io/IIX-YhwkRBOtwS17rmPa1Q)
+### Communication
+[RS232](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rykPpPGiP)
+[I2C/SPI](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SkOSwoiiD)
+[BUS-CAN]()
+[BUS-EIB]
 
 ## TP
 [7 segments](https://drive.google.com/drive/folders/1vCsoPxUAdW2A9C2zgOr6C1dWmPQVR_fx) -- 
