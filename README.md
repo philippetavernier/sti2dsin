@@ -23,7 +23,7 @@
 ### Communication
 [RS232](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/rykPpPGiP)
 [I2C/SPI](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/SkOSwoiiD)
-[BUS-CAN] (https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/ry3QStDJ5)
+[BUS-CAN](https://hackmd.io/@YSaVczpYQySlUnehD8yxvw/ry3QStDJ5)
 [BUS-EIB]
 
 ## TP
